@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "~4.9.x"
+    "ember": "~1.6",
   },
   "engines": {
     "node": "0.12.x"
